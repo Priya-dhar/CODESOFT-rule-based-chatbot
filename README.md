@@ -11,6 +11,6 @@ This is a simple rule-based chatbot built using Python. It analyzes user questio
 - Python 3 (no external libraries)
 ## 🧠 Example Usage
 ## 📁 Files
-- `chatbot.py` – Main chatbot logic
+- `rule-based-chatbot.ipynb` – Main chatbot logic
 ## 📝 License
 This project is licensed under the MIT License.
